@@ -1,0 +1,46 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Secrets and local access material
+*.pem
+*.key
+*_rsa
+*token*
+*Token*
+ghp_*.txt
+access_info.txt
+
+# Simulator/generated output
+simv
+simv.daidir/
+csrc/
+*.vpd
+*.fsdb
+*.vcd
+*.dump*
+*.mem
+*.log
+*.jou
+*.pb
+*.wdb
+novas.*
+Verdi-UltraLog/
+ucli.key
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.exe
+
+# Large original archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
