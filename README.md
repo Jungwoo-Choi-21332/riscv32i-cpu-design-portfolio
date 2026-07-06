@@ -1,6 +1,6 @@
 # RV32I CPU Design Portfolio
 
-취업 포트폴리오 제출을 위해 정리한 RISC-V RV32I CPU 설계 프로젝트입니다. 어셈블리와 C 기반 ISA 이해부터 Verilog/SystemVerilog 모듈 설계, 단일 사이클 CPU, 5-stage pipeline CPU, hazard 처리, memory/peripheral 연동까지의 과정을 주차별 산출물과 최종 설계 코드로 정리했습니다.
+RISC-V RV32I CPU 설계 프로젝트입니다. 어셈블리와 C 기반 ISA 이해부터 Verilog/SystemVerilog 모듈 설계, 단일 사이클 CPU, 5-stage pipeline CPU, hazard 처리, memory/peripheral 연동까지의 과정을 주차별 산출물과 최종 설계 코드로 정리했습니다.
 
 ## Project Summary
 
